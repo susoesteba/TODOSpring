@@ -52,7 +52,7 @@ public class Tag implements Serializable {
     return id;
   }
 
-    public String getDescription() {
+  public String getDescription() {
         return description;
     }
 }
